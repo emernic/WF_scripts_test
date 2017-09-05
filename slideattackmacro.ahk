@@ -5,4 +5,3 @@ Send, {e}
 Send, {Control Up}
 Return
 #IfWinActive
-; eyo im editing in git
